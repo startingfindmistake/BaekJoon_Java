@@ -1,3 +1,5 @@
+// 조건문
+// 주사위 세개
 package Conditional_statement;
 
 import java.util.Scanner;
